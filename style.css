@@ -1,0 +1,289 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+   
+   
+   
+    
+
+}
+
+
+h1{
+    font-size: 66px; font-weight: 600; line-height: 80px;
+}
+
+h2{
+    font-size: 36px; margin-bottom: 30px;
+}
+h3{
+    color:#000000;
+}
+h4{
+    color: #080363;
+}
+
+p{
+    font-size: 18px;
+    color: #999999;
+    line-height: 1.0;
+    margin-bottom: 0;
+    padding: 1px;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+
+section{
+    padding: 120px 0;
+}
+
+.bg-light-grey{
+    background-color: #f5f5f5;
+}
+
+.topmargin-ss{
+    margin-top: 15px;
+}
+.topmargin-sm{
+    margin-top: 30px;
+}  
+.topmargin-lg{
+    margin-top: 60px;
+}
+
+.text-dark {color: #000000;
+
+}
+.navbar {
+        background-color: #ffffff;
+        box-shadow: 0 2px 4px 0 rgba(0, 0,0, .05);
+        min-height: 100px;
+}
+
+.nav-link{ color: #000000;
+
+}
+
+.nav-link:hover{color:#000000;
+
+}
+
+.logo{
+    min-width: 6000px;
+    max-width: 6000px;
+  
+   
+
+}
+
+.nav-toggler{
+
+    font-size: 48px;
+}
+
+.nav-toggler:focus{
+
+    outline: none;
+}
+#soporte{
+    background-image: url("images/soporte_Services.png");
+    background-size: cover;
+    padding-top: 90px;
+    margin-top: 100px;
+    min-height: 500px;
+    color: #ffffff; 
+}
+
+#website{
+    background-image: url("images/web-services.png");
+    background-size: cover;
+    padding-top: 90px;
+    margin-top: 100px;
+    min-height: 500px;
+    color: #ffffff;
+}
+#vid{
+    background-image: url("images/VIdeoProva.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-top: 90px;
+    margin-top: 100px;
+    min-height: 500px;
+    color: #ffffff;
+}
+
+#audi{
+    background-image: url("images/AudiTest.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-top: 1px;
+    margin-top: 1px;
+    min-height: 500px;
+    color: #ffffff;
+}
+
+#hero{
+    background-image: url("images/test-Main.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size:cover;
+    padding-top: 90px;
+    margin-top: 100px;
+    min-height: 700px;
+    color: #ffffff;
+  
+    
+} 
+
+#hero p{
+    color: #ffffff;
+}
+
+
+.content-center{
+    max-width: 800px;
+    margin: 0 auto 60px auto;
+    text-align:center;
+
+
+}
+
+
+.servicios-container{
+    position: relative;
+    overflow: hidden;
+    margin: 10px 0;
+    border-radius: 2px;
+
+}
+
+.servicios-container img{
+    -moz-transition: all  0.8s;
+    -webkit-transition: all  0.8s;
+    transition: all 0.8s;
+
+}
+
+.servicios-container:hover img{
+    -moz-transform: scale(1,1.2);
+    -webkit-transition: scale(1,1.2);
+    transform: scale(1,1.2);
+
+}
+
+.servicios-details{
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+    z-index: 9000;
+   
+}
+
+.servicios-details a h2, .servicios-details a p{
+    color: #ffffff;
+}
+
+
+.member-container{
+    position: relative;
+    margin: 0 auto;
+    display: block;
+}
+
+.member-details video{
+    position: absolute;
+    color: #ffffff;
+    bottom: 0px;
+   display: block;
+
+}
+
+#footer{
+    padding: 80px 0;
+    text-align: center;
+    color: #ffffff;
+    background-color:#01013b;
+  
+}
+
+#footer a{
+    color: #ffffff;
+}
+
+#footer a:hover{
+    color: #999999;
+}
+#footer.list-inline.list-inline-item {
+    padding: 10px 15px;
+   
+}
+
+.services-container{
+    position: relative;
+    overflow: hidden;
+    margin: 10px 0;
+    border-radius: 2px;
+    padding: 2px;
+  
+
+}
+.services-details{
+    position: absolute;
+    bottom: 250px;
+    left: 25px;
+    z-index: 9000;
+   
+}
+.Audio{
+
+
+width: 420px;
+height: 270px;
+float: left;
+
+
+}
+
+.Audio audio{
+width: 420px;
+background-color:black;
+
+  
+
+}
+.Audio h4{
+
+
+   text-align: center;
+    
+    }
+
+#web img{
+
+    padding-top: 50px;
+    height: 600px;
+    width: 4500px;
+ 
+
+    }
+
+#sobre a{
+        color: #01013b;
+       
+    }
+#sobre video{
+
+    width: 1300px;
+    height: 350px;
+}
+   
+    
+   
+
